@@ -1,0 +1,10 @@
+me/roshanadh/productservice/dto/ProductResponse.class
+me/roshanadh/productservice/dto/ProductResponse$ProductResponseBuilder.class
+me/roshanadh/productservice/controller/ProductController.class
+me/roshanadh/productservice/dto/ProductRequest$ProductRequestBuilder.class
+me/roshanadh/productservice/model/Product$ProductBuilder.class
+me/roshanadh/productservice/dto/ProductRequest.class
+me/roshanadh/productservice/repository/ProductRepository.class
+me/roshanadh/productservice/ProductServiceApplication.class
+me/roshanadh/productservice/model/Product.class
+me/roshanadh/productservice/service/ProductService.class

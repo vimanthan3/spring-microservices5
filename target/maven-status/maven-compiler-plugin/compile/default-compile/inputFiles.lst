@@ -1,0 +1,7 @@
+/home/logicfocus/sam/springboot-microservices/product-service/src/main/java/me/roshanadh/productservice/service/ProductService.java
+/home/logicfocus/sam/springboot-microservices/product-service/src/main/java/me/roshanadh/productservice/dto/ProductRequest.java
+/home/logicfocus/sam/springboot-microservices/product-service/src/main/java/me/roshanadh/productservice/dto/ProductResponse.java
+/home/logicfocus/sam/springboot-microservices/product-service/src/main/java/me/roshanadh/productservice/model/Product.java
+/home/logicfocus/sam/springboot-microservices/product-service/src/main/java/me/roshanadh/productservice/controller/ProductController.java
+/home/logicfocus/sam/springboot-microservices/product-service/src/main/java/me/roshanadh/productservice/repository/ProductRepository.java
+/home/logicfocus/sam/springboot-microservices/product-service/src/main/java/me/roshanadh/productservice/ProductServiceApplication.java
